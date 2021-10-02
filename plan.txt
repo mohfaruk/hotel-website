@@ -1,0 +1,13 @@
+HTML:
+[x] Include Icons in footer
+[x] Include Icons in contact page
+[x] Include personalised logo in navbar
+
+CSS:
+[x] Neaten footer so it is centred (justify content?)
+[x] Make footer consistently the same size in all pages
+[x] Fix testimonials boxes so they are compact 
+    and do not fill entire section of page
+
+Other:
+[] Put all common CSS into utilities section that can be reused
